@@ -3,6 +3,7 @@
 A DNS server written by Python...
 
 Usage:
+
 1.Set your DNS server as local server : 127.0.0.1
 
 2.Run the dnsrelay.py
