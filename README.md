@@ -1,4 +1,4 @@
-# DNSserver
+# DNS relay server
 
 A DNS server written by Python...
 
